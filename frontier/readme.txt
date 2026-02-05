@@ -1,10 +1,3 @@
-== Frontier Theme ==
-Author: ronangelo
-Author URI: http://ronangelo.com
-Theme URI:  http://ronangelo.com/frontier/
-
-Frontier WordPress Theme, Copyright 2014 ronangelo
-Frontier is distributed under the terms of the GNU GPL version 3
 
 == Description ==
 Frontier is a multi-purpose, HTML5 and CSS3 WordPress theme. It lets you choose between 1, 2 or 3 column layouts while offering independent template layouts for pages.
@@ -14,18 +7,8 @@ Frontier accomplishes all this while maintaining a minimal file size for a fast 
 
 The theme is developed and tested on modern HTML5 browsers like Firefox, Chrome, IE9+, Opera.
 
-== Credits ==
-Options Framework by Devin Price
-http://www.wptheming.com
-License: GPLv2
 
-Basic jQuery Slider by John Cobb
-http://www.basic-slider.com
-License: GNU General Public License, version 3 (GPL-3.0)
 
-Genericons Icon Font
-http://genericons.com/
-License: GNU General Public License
 
 Frontier Logo is based on a Public Domain Japanese Crest
 http://eps.crest-japan.net/index_en.php
