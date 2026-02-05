@@ -82,14 +82,6 @@ Place screenshots in `/docs/screenshots` and reference them here:
 
 ![Screenshot - Menu](./docs/screenshots/menu.png)
 
-## 📝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feat/my-feature`
-3. Commit changes: `git commit -m "feat: add user reservations"`
-4. Push branch and open a PR
-
-Please follow a clear commit message style and include tests for major features.
 
 ## 📬 Contact
 
