@@ -1,7 +1,5 @@
 # 🍽️ Treonix — Restaurant Management Website
 
-![Project Banner](./assets/banner.png)
-
 > **Final-year full-stack project** — a responsive Restaurant Management System with online menu, ordering, table reservations, and an admin dashboard.
 
 ---
@@ -20,17 +18,6 @@ A clean, responsive restaurant website that enables customers to browse the menu
 * Responsive UI for mobile and desktop
 * Basic analytics and order history
 
-## 🧰 Tech Stack & Badges
-
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
-![React](https://img.shields.io/badge/React-%5E18-blue)
-![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14-brightgreen)
-![Express](https://img.shields.io/badge/Express-%5E4-lightgrey)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%5E3-skyblue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D13-blue)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-
-> *Swap any stack items above (MySQL, MongoDB, Firebase) depending on your implementation.*
 
 ## 📁 Project Structure (Suggested)
 
@@ -52,7 +39,7 @@ A clean, responsive restaurant website that enables customers to browse the menu
 1. Clone the repo
 
 ```bash
-git clone https://github.com/treonix-in/restaurant-project.git
+git clone https://github.com/Treonix-in/finalyear-restaurant-website.git
 cd restaurant-project
 ```
 
@@ -103,10 +90,6 @@ Place screenshots in `/docs/screenshots` and reference them here:
 4. Push branch and open a PR
 
 Please follow a clear commit message style and include tests for major features.
-
-## 📜 License
-
-This project is released under the **MIT License**. See [LICENSE](./LICENSE) for details.
 
 ## 📬 Contact
 
